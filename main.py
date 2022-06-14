@@ -1,5 +1,4 @@
 # -*- coding: WINDOWS-1251 -*-
-from this import d
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog as fd
